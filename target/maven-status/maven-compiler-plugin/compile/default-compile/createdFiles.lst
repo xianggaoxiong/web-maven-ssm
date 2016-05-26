@@ -1,0 +1,5 @@
+com\bestseller\service\UserServiceImpl.class
+com\bestseller\entity\User.class
+com\bestseller\controller\UserController.class
+com\bestseller\service\UserService.class
+com\bestseller\mapper\UserMapper.class
